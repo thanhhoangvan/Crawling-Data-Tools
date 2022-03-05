@@ -1,3 +1,5 @@
 google_images_download
 selenium
 beautifulsoup4
+progress
+pandas
