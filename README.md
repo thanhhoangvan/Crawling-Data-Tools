@@ -1,2 +1,2 @@
-# Crawling-Data-Tools
-Các công cụ cào dữ liệu với từ khoá bằng python
+<h1 align='center'>Crawling-Data-Tools</h1>
+<p align='center'>Các công cụ cào dữ liệu bằng Python</p>
